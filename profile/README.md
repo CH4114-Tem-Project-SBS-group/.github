@@ -42,7 +42,7 @@ Read the full problem statements, methodology and analysis plans on the tracker:
 
 ## Access model
 
-| Role | Read | Clone | Discuss | Write |
+| Role | Read | Clone | Discuss | Admin |
 | --- | :---: | :---: | :---: | :---: |
 | Group members | ✅ | ✅ | ✅ | ❌ |
 | Project owner | ✅ | ✅ | ✅ | ✅ (own repo) |
