@@ -30,7 +30,7 @@ Read the full problem statements, methodology and analysis plans on the tracker:
 | --- | --- | --- | --- |
 | [`25RS109`](../../25RS109-water-phase-separation) | Low-temperature phase separation of water | Molecular dynamics | ML potentials, nucleation, ionic doping |
 | [`23MS211`](../../23MS211-gold-nanostructures) | Material response of gold nanostructures | Nanomechanics | Gold-based alloys |
-| [`25MP034`](../../25MP034-solvation-free-energy) | Solvation free energy | Free-energy calculations | ML potentials |
+| [`25MP014`](../../25MP014-solvation-free-energy) | Solvation free energy | Free-energy calculations | ML potentials |
 | [`23MS163`](../../23MS163-doped-crystals) | Doped crystals | Electronic structure · magnetism | Domain response to perturbations |
 | [`23MS006`](../../23MS006-cof-mof-gas-adsorption) | Gas adsorption in COFs and MOFs | Porous materials | Humidity / moisture effects |
 | [`23MS029`](../../23MS029-hbond-dynamics-solvation) | Solvation free energy and H-bond dynamics | Hydrogen bonding | Stable / metastable structures |
