@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="CH4114 SBS group">
+  <rect width="1200" height="300" fill="#EADFC9"/>
+  <rect width="1200" height="7" fill="#28407D"/>
+  <g fill="none" stroke="#28407D" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M96 78 136.5 102 136.5 150 96 174 55.5 150 55.5 102Z"/>
+    <path d="M121.6 126 108.8 103.2 83.2 103.2 70.4 126 83.2 148.8 108.8 148.8Z"/>
+  </g>
+  <circle cx="96" cy="126" r="10.4" fill="#E76051"/>
+  <text x="196" y="118" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="20" letter-spacing="6" fill="#E76051">CH4114</text>
+  <text x="194" y="188" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#28407D" letter-spacing="-1">SBS GROUP</text>
+  <text x="198" y="228" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="16" letter-spacing="3.4" fill="#5B5B5B">COMPUTATIONAL PHYSICS · PROJECT REGISTER</text>
+  <path d="M196 254 H1136" stroke="#A7A7A7" stroke-width="2" stroke-dasharray="5 7"/>
+</svg>
