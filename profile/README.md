@@ -2,10 +2,10 @@
 
 <img src="profile/banner.svg" alt="CH4114 SBS group" width="100%" />
 
-**Nine computational physics projects · nine private repositories · one register.**
+**Fifteen computational physics projects · fifteen private repositories · one register.**
 
 [![Register](https://img.shields.io/badge/register-live-28407D?style=flat-square)](https://ch4114-tem-project-sbs-group.github.io/project-tracker/)
-[![Projects](https://img.shields.io/badge/projects-9-E76051?style=flat-square)]
+[![Projects](https://img.shields.io/badge/projects-15-E76051?style=flat-square)]
 [![Access](https://img.shields.io/badge/access-view--only%20for%20members-A19D94?style=flat-square)](https://ch4114-tem-project-sbs-group.github.io/project-tracker/#access)
 
 </div>
@@ -17,6 +17,10 @@
 This organisation holds the project register for **CH4114** at IISER Kolkata. Each
 roll number owns one private repository. Everyone in the group can read every
 project; only the owner (and the maintainer) can write to it.
+
+> **Joining the group.** Access to every project comes from membership of this
+> organisation, which carries read access org-wide. Ask the maintainer to add
+> your GitHub username as a member.
 
 Read the full problem statements, methodology and analysis plans on the tracker:
 
@@ -37,6 +41,12 @@ Read the full problem statements, methodology and analysis plans on the tracker:
 | [`23MS070`](../../23MS070-solvation-solvent-comparison) | Solvation free energy across solvents | Solvation thermodynamics | ML potentials |
 | [`23MS164`](../../23MS164-josephson-junction) | Josephson junction | Quantum transport | To be discussed |
 | [`25MP040`](../../25MP040-piezoelectric-crystals) | Piezoelectric response of crystals | Electromechanics | Doping effects |
+| [`22MS167`](../../22MS167-ctab-micelle-formation) | Coarse-grained simulation of CTAB micelle formation | Soft Matter | Spherical-to-wormlike transition |
+| [`23MS137`](../../23MS137-nma-electric-field) | Conformational free energy of NMA in an electric field | Free-energy calculations | Machine-learning potentials |
+| [`23MS086`](../../23MS086-batio3-phonon-dispersion) | Finite-temperature phonon dispersion of BaTiO3 | Lattice dynamics | Wavevector-resolved spectral analysis |
+| [`23MS079`](../../23MS079-organic-crystal-bending-optics) | Optical response of bending organic crystals | Optical response | MD-to-TD-DFT link |
+| [`23MS166`](../../23MS166-perovskite-nanoparticle-pressure) | Pressure-induced phase transformations of perovskite nanoparticles | Phase transformations | Hydrostatic pressure on a finite particle |
+| [`23MS062`](../../23MS062-hcn-hnc-isomerisation-ice-reaxff) | HCN–HNC isomerisation on water-ice clusters | Reactive MD | ReaxFF parameterisation validation |
 
 ---
 
@@ -49,7 +59,7 @@ Read the full problem statements, methodology and analysis plans on the tracker:
 | Maintainer | ✅ | ✅ | ✅ | ✅ |
 
 Every repository is **private**. The organisation-wide default is **read**, so an
-invited member immediately sees all nine projects and can follow the work without
+invited member immediately sees all fifteen projects and can follow the work without
 being able to modify it.
 
 Want a change in a repository you do not own? Open an issue. The owner lands it.
@@ -62,7 +72,7 @@ Want a change in a repository you do not own? Open an issue. The owner lands it.
 | --- | --- |
 | [`project-tracker`](../../project-tracker) | Public Astro site — problem statements, activity, changelog |
 | [`.github`](../../.github) | This organisation profile |
-| `25RS109-*` … `25MP040-*` | Nine private project repositories (above) |
+| `25RS109-*` … `23MS062-*` | Fifteen private project repositories (above) |
 
 Every project repository follows the same scaffold:
 
